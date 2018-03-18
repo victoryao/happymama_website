@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class NavController {
 
-    @RequestMapping("/toHome")
+    @RequestMapping("/home")
     public String toHomePage() {
         return "/home/home";
     }
@@ -19,5 +19,26 @@ public class NavController {
     public String toAboutUsPage() {
         return "/aboutUs/about-us";
     }
+
+    @RequestMapping("/contact-us")
+    public String toContractUsPage() {
+        return "/contactUs/contact-us";
+    }
+
+    @RequestMapping("/employee")
+    public String toEmployeePage() {
+        return "/employee/employee";
+    }
+
+    @RequestMapping("/course")
+    public String toCoursePage() {
+        return "/course/course-grid";
+    }
+
+    @RequestMapping("/knowledge")
+    public String toKnowledgePage() {
+        return "/knowledge/knowledge";
+    }
+
 
 }
