@@ -57,7 +57,7 @@
                         <li><a href="${base}/home.do">首页</a></li>
                         <li class="active"><a href="${base}/about-us.do">关于我们</a></li>
                         <li><a href="${base}/employee.do">月嫂风采</a></li>
-                        <li><a href="${base}/course/list.do">培训课程</a></li>
+                        <li><a href="${base}/course.do">培训课程</a></li>
                         <li><a href="${base}/contact-us.do">联系我们</a></li>
                     </ul>
                 </nav>
@@ -233,7 +233,7 @@
                                 <div class="gt_team_des default_width">
                                     <h6><a href="#">王振云</a></h6>
                                     <span>CFO</span>
-                                    <p>有10多年专业的行政与财务经验，在行政管理、员工招聘、员工关系、薪酬福利、员工发展培训等领域都有着丰富的实践经验，并为企业培养了大量优秀的人才和管理储备</p>
+                                    <p>有10多年专业的行政与财务经验，在行政管理、员工招聘、员工关系、薪酬福利、员工发展培训等领域都有着丰富的实践经验，并为企业培养了大量优秀的人才和管理储备。</p>
                                 </div>
                             </div>
                         </div>
