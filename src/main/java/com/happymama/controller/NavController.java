@@ -32,7 +32,7 @@ public class NavController {
 
     @RequestMapping("/course")
     public String toCoursePage() {
-        return "/course/course-grid";
+        return "/course/list";
     }
 
     @RequestMapping("/knowledge")

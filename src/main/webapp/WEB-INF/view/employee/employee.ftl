@@ -1,19 +1,25 @@
+<#assign base=request.contextPath />
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
+    <base id="base" href="${base}">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Edu-Skill - Education Template</title>
+    <meta name="description" content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。" />
+    <meta name="aplus-xplug" content="NONE">
+    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政" />
+
+    <title>北京快乐妈咪科技有限公司</title>
     <!-- Chosen CSS -->
-    <link href="/css/chosen.min.css" rel="stylesheet">
+    <link href="${base}/css/chosen.min.css" rel="stylesheet">
     <!-- Custom Main StyleSheet CSS -->
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="${base}/css/style.css" rel="stylesheet">
     <!-- Color CSS -->
-    <link href="/css/color.css" rel="stylesheet">
+    <link href="${base}/css/color.css" rel="stylesheet">
     <!-- Responsive CSS -->
-    <link href="/css/responsive.css" rel="stylesheet">
+    <link href="${base}/css/responsive.css" rel="stylesheet">
 
 </head>
 
@@ -26,12 +32,9 @@
             <div class="container">
                 <div class="gt_top_element">
                     <ul>
-                        <li><i class="fa fa-phone"></i>111-22-333-45</li>
+                        <li><i class="fa fa-phone"></i>010-63488700</li>
                         <li><i class="fa fa-envelope"></i><a href="#">info@edu-skill.com</a></li>
                     </ul>
-                </div>
-                <div class="gt_login_element">
-                    <a href="#"><i class="icon-lock"></i>Login &#38; Register</a>
                 </div>
             </div>
         </div>
@@ -39,7 +42,7 @@
             <div class="container">
                 <!--Logo Wrap Start-->
                 <div class="gt_logo">
-                    <a href="#"><img src="/images/logo.png" alt=""></a>
+                    <a href="#"><img src="${base}/images/logo.png" alt=""></a>
                 </div>
                 <!--Logo Wrap End-->
                 <!--Navigation Wrap Start-->
@@ -50,12 +53,11 @@
                         <span class="icon-bar"></span>
                     </button>
                     <ul>
-                        <li><a href="/home.do">首页</a></li>
-                        <li><a href="/about-us.do">关于我们</a></li>
-                        <li class="active"><a href="/employee.do">月嫂风采</a></li>
-                        <li><a href="/course/list.do">培训课程</a></li>
-                        <li><a href="/knowledge/list.do">育儿知识</a></li>
-                        <li><a href="/contact-us.do">联系我们</a></li>
+                        <li><a href="${base}/home.do">首页</a></li>
+                        <li><a href="${base}/about-us.do">关于我们</a></li>
+                        <li class="active"><a href="${base}/employee.do">月嫂风采</a></li>
+                        <li><a href="${base}/course.do">培训课程</a></li>
+                        <li><a href="${base}/contact-us.do">联系我们</a></li>
                     </ul>
                 </nav>
                 <!--Navigation Wrap End-->
@@ -73,13 +75,13 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_team_wrap default_width mb30">
                             <figure>
-                                <img src="/extra-images/e1.jpeg" alt="">
+                                <img src="${base}/extra-images/e1.jpeg" alt="">
                             </figure>
                             <div class="gt_team_des default_width">
-                                <h6><a href="#">何小英</a></h6>
+                                <h6><a href="#">武爱芳</a></h6>
                                 <span>金牌月嫂</span>
                                 <p align="left">
-                                    本人性格开朗，做事细心麻利，用自己的真心、责任心、爱心、细心、耐心来获得每一位客户的安心、省心、舒心、放心最终获得客户的信任与支持。产妇护理：开奶、催乳、产后修复，伤口消毒、观察恶露、月子餐、心里辅导、善于跟家人沟通、调解，宝宝的护理：脐带消毒、黄疸观察及处理、洗澡、抚触、被动操、每日大小便观察、每日身体状况观察。
+                                    从事这个行业6年，有高级母婴护理师，催乳师证，营养师证，健康证。对护理婴儿和产后护理有丰富的经验。恶露观察，心情疏导，婴儿洗澡，脐带护理，乳房护理，形体恢复，抚触按摩，喂奶拍嗝，开奶催乳，婴儿喂养，红臀处理，月子餐制作，产辱指导，刨妇产护理，在我眼中月嫂是份职业，更是一份责任，因为每个宝宝都寄托着家庭的幸福与期待。希望用我的付出为您的家庭带来一份安心，更多的快乐！好的服务贵在人品，用真心，爱心，细心，耐心服务每一个与我有缘的人。
                                 </p>
                             </div>
                         </div>
@@ -87,141 +89,98 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_team_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/teacher-02.jpg" alt="">
+                                <img src="${base}/extra-images/e2.jpeg" alt="">
                             </figure>
                             <div class="gt_team_des default_width">
-                                <h6><a href="#">lana Deo</a></h6>
-                                <span>Chemistry Teacher</span>
-                                <ul class="gt_scl_icon">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+                                <h6><a href="#">韩伟平</a></h6>
+                                <span>金牌月嫂</span>
+                                <p>
+                                    从业8年，拥有高级母婴护理师、催乳师、营养师、高级育婴师证书。对护理婴儿和产后护理有丰富的经验。恶露观察，心情疏导，婴儿洗澡，脐带护理及消毒，黄疸观察与处理，乳房护理，先后带过5对双胞胎，对双胞胎护理也有丰富经验。产后恢复，抚触被动操，喂奶拍嗝，开奶催乳，婴儿喂养，红臀处理，擅长月子餐的营养搭配，产褥指导，剖腹产护理。在我眼中月嫂是份职业，更是一份责任，因为每个宝宝都寄托着家庭的幸福与期待。希望用我的付出为您的家庭带来一份安心，更多的快乐！
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_team_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/teacher-03.jpg" alt="">
+                                <img src="${base}/extra-images/e3.jpeg" alt="">
                             </figure>
                             <div class="gt_team_des default_width">
-                                <h6><a href="#">lana Deo</a></h6>
-                                <span>Chemistry Teacher</span>
-                                <ul class="gt_scl_icon">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+                                <h6><a href="#">温美平</a></h6>
+                                <span>金牌月嫂</span>
+                                <p>
+                                    山西人，从业9年，精通催乳，月子餐，婴儿疾病观察。有高级母婴护理师证高级催乳证，性格开朗，做事细心麻利。用自己的真心、责任心、爱心、细心、耐心来获得每一位客户的安心、省心、舒心、放心最终获得客户的信任与支持。产妇护理：开奶、催乳、产后修复，伤口消毒、观察恶露、月子餐、心里辅导、善于跟家人沟通、调解，宝宝的护理：脐带消毒、黄疸观察及处理、洗澡、抚触、被动操、每日大小便观察、每日身体状况观察。</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_team_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/teacher-04.jpg" alt="">
+                                <img src="${base}/extra-images/e4.jpeg" alt="">
                             </figure>
                             <div class="gt_team_des default_width">
-                                <h6><a href="#">lana Deo</a></h6>
-                                <span>Chemistry Teacher</span>
-                                <ul class="gt_scl_icon">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+                                <h6><a href="#">弓风英</a></h6>
+                                <span>金牌月嫂</span>
+                                <p>
+                                    拥有母婴护理师证，催乳师证，健康证，营养师证。在北京做了10年月嫂，带过双胞胎，早产儿，面食，月子餐做的好，根据产妇的身体特征配制月子餐给予产妇贴心的照顾和护理，对新生儿黄疸观察，脐带护理，新生儿的突发情况能及时处理好。帮助宝宝早期潜力开发语言表达能力。让宝宝聪明健康快乐的成长。擅长和宝宝互动，沟通，交流，喜欢给宝宝讲故事，唱歌，培养宝宝良好的生活习惯。做事细心，认真，卫生，责任心强，有爱心，性格开朗，好相处，对宝宝护理好，多次得到客户的推荐。
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_team_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/teacher-05.jpg" alt="">
+                                <img src="${base}/extra-images/e5.jpeg" alt="">
                             </figure>
                             <div class="gt_team_des default_width">
-                                <h6><a href="#">lana Deo</a></h6>
-                                <span>Chemistry Teacher</span>
-                                <ul class="gt_scl_icon">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+                                <h6><a href="#">王晓琴</a></h6>
+                                <span>金牌月嫂</span>
+                                <p>
+                                    由于喜欢孩子，选择了这个职业，从业以来，带过早产儿，双胞胎，还有缺陷的特殊宝宝，每个宝宝都是上天降临的天使，我爱她们，我会用我的专业技能和努力换取你们的称心，安心与放心，把客户当成自己的家人，创造一个愉快，信任，真诚的氛围，对孩子和妈妈送去一份最真切的关怀，我会帮您坐一个满意的月子，感恩您的选择，谢谢！对产妇的护理:开奶，催乳，月子餐，伤口消毒，恶露观察，心里辅导，产后恢复。对孩子的护理:脐带的消毒，黄疸的观察处理，洗澡，抚触，被动操，大小便的观察和每日身体状况的观察。
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_team_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/teacher-06.jpg" alt="">
+                                <img src="${base}/extra-images/e6.jpeg" alt="">
                             </figure>
                             <div class="gt_team_des default_width">
-                                <h6><a href="#">lana Deo</a></h6>
-                                <span>Chemistry Teacher</span>
-                                <ul class="gt_scl_icon">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+                                <h6><a href="#">李菊香</a></h6>
+                                <span>金牌月嫂</span>
+                                <p>擅长营养月子餐搭配，产后护理。 </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_team_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/teacher-07.jpg" alt="">
+                                <img src="${base}/extra-images/e7.jpeg" alt="">
                             </figure>
                             <div class="gt_team_des default_width">
-                                <h6><a href="#">lana Deo</a></h6>
-                                <span>Chemistry Teacher</span>
-                                <ul class="gt_scl_icon">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+                                <h6><a href="#">周莉</a></h6>
+                                <span>金牌月嫂</span>
+                                <p>
+                                    我从2010年从事母婴护理工作至今已经8年了，护理过40多个宝宝了，积累了丰富的工作经验，带过4对双胞胎2对早产儿，会处理宝宝常见问题（红屁屁.湿疹.黄疸）产妇问题（抑郁的心理疏通）精通催乳开奶月子餐制作，护理产妇冲洗以及产后修复等，我本人阳光积极沟通能力强</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_team_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/teacher-08.jpg" alt="">
+                                <img src="${base}/extra-images/e8.jpeg" alt="">
                             </figure>
                             <div class="gt_team_des default_width">
-                                <h6><a href="#">lana Deo</a></h6>
-                                <span>Chemistry Teacher</span>
-                                <ul class="gt_scl_icon">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+                                <h6><a href="#">高玉燕</a></h6>
+                                <span>金牌月嫂</span>
+                                <p>
+                                    母婴护理经验丰富，对于产妇的月子护理、宝宝的黄疸观察、脐带护理，臀部护理，培养宝宝的良好习惯有自己独特的办法，喜欢和宝宝交流。擅长跟宝宝互动，诗歌朗诵，对各个月龄段的宝宝早教有着丰富的经验。做事细心、认真，卫生整洁、负责任，对宝宝有爱心、耐心、责任心。本人性格开朗、乐观阳光，勤劳善良、身体健康、生活习惯好，没有什么不良嗜好。
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--Pagination Wrap Start-->
-                <div class="gt_pagination_outer_wrap">
-                    <ul>
-                        <li><a href="#"><i class="fa fa-angle-double-left"></i></a></li>
-                        <li class="active"><a href="#">1</a></li>
-                        <li><a href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
-                    </ul>
-                </div>
-                <!--Pagination Wrap End-->
             </div>
         </section>
         <!--Course Grid Wrap End-->
@@ -229,121 +188,14 @@
     <!--Main Content Wrap End-->
 
     <!--Footer Wrap Start-->
-    <footer>
-        <!--Newletter Wrap Start-->
-        <div class="gt_newsletter_bg default_width">
-            <div class="container">
-                <div class="gt_newsletter_inside_bg default_width">
-                    <div class="gt_newsletter_wrap">
-                        <h3>STAY TUNED WITH US</h3>
-                        <form class="default_width">
-                            <input type="text" class="ph_news" placeholder="Your Email address">
-                            <input type="submit" value="Subscribe">
-                        </form>
-                        <p>Get our updates educational materials, new courses and more!</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Newletter Wrap End-->
-
-        <!--Footer List Wrap Start-->
-        <div class="gt_footer1_bg default_width">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6">
-                        <div class="gt_foo_about gt_widget_hdg">
-                            <h5>Our Sevices</h5>
-                            <ul>
-                                <li><a href="#">Courses</a></li>
-                                <li><a href="#">Events</a></li>
-                                <li><a href="#">Teachers</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Gdaducation</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="gt_foo_about gt_widget_hdg">
-                            <h5>My Account</h5>
-                            <ul>
-                                <li><a href="#">My Account</a></li>
-                                <li><a href="#">Order History</a></li>
-                                <li><a href="#">Wishlist</a></li>
-                                <li><a href="#">Newsletter</a></li>
-                                <li><a href="#">Special</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="gt_foo_about gt_widget_hdg">
-                            <h5>Our Support</h5>
-                            <ul>
-                                <li><a href="#">Contact Us</a></li>
-                                <li><a href="#">Shipping &#38; Taxes</a></li>
-                                <li><a href="#">Return Policy</a></li>
-                                <li><a href="#">Site Map</a></li>
-                                <li><a href="#">Conatct Us</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="gt_foo_about gt_widget_hdg">
-                            <h5>Information</h5>
-                            <ul>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Top Sellers</a></li>
-                                <li><a href="#">Special Products</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Delivery Information</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Footer Contact Wrap Start-->
-                <div class="gt_foo_contact_wrap">
-                    <div class="row">
-                        <div class="col-md-4 col-sm-6">
-                            <div class="gt_foo_contact_des">
-                                <i class="icon-phone"></i>
-                                <div class="gt_foo_icon_des">
-                                    <h5>(8) 111 22 333 444</h5>
-                                    <span>Mon - fri 9am to 5pm </span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6">
-                            <div class="gt_foo_contact_des">
-                                <i class="icon-tool"></i>
-                                <div class="gt_foo_icon_des">
-                                    <h5>info@eduskill.com</h5>
-                                    <span>Online information </span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="gt_foo_contact_des">
-                                <i class="icon-pin"></i>
-                                <div class="gt_foo_icon_des">
-                                    <h5>New york Usa</h5>
-                                    <span>787 New south  way CA </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--Footer Contact Wrap End-->
-            </div>
-        </div>
-        <!--Footer List Wrap End-->
+    <footer
 
         <!--Copyright Wrap End-->
         <div class="gt_copyright_wrap">
             <div class="container">
                 <div class="gt_copyright_des">
-                    <p>Copyright © <a href="#">Edu-skill </a> 2016. All rights reserved.</p>
-                    <span>Created by: <a href="#">2goodtheme.com</a></span>
+                    <p>Copyright © <a href="#">快乐妈咪 </a> 2018. All rights reserved.</p>
+                    <span>Created by: <a href="#">klmami.cn</a></span>
                 </div>
             </div>
         </div>
@@ -365,9 +217,9 @@
 <!--Bootstrap core JavaScript-->
 <script src="http://www.jq22.com/jquery/bootstrap-3.3.4.js"></script>
 <!--Chosen JavaScript-->
-<script src="js/chosen.jquery.min.js"></script>
+<script src="${base}/js/chosen.jquery.min.js"></script>
 <!--Custom JavaScript-->
-<script src="js/custom.js"></script>
+<script src="${base}/js/custom.js"></script>
 
 </body>
 </html>
