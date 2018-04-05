@@ -77,31 +77,27 @@
         <div class="swiper-container" id="swiper-container">
             <ul class="swiper-wrapper">
                 <li class="swiper-slide">
-                    <img src="${base}/images/h1.jpg" alt="">
+                    <img src="${base}/extra-images/banner1.jpeg" alt="">
                     <div class="gt_banner_text gt_slide_1">
-                        <h3>您想安全放心的请月嫂吗</h3>
+                        <h3>想安全放心的挑选优质月嫂吗?</h3>
                         <h2>更专业、更放心</h2>
                         <p>与用户签订甲乙方合同的服务机构， 服务期间全程试用，随时与公司沟通月嫂服务状况，服务不满意，随时更换月嫂。</p>
                     </div>
                 </li>
                 <li class="swiper-slide">
-                    <img src="${base}/extra-images/banner-05.jpg" alt="">
+                    <img src="${base}/extra-images/banner2.jpeg" alt="">
                     <div class="gt_banner_text gt_slide_2">
-                        <h3>What would you like to learn</h3>
-                        <h2>Complete Education Solution</h2>
-                        <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color dolor sit
-                            amet</p>
-                        <a href="#">see More<i class="fa fa-arrow-right"></i></a>
+                        <h3>月嫂、育儿嫂、催乳师、营养师培训</h3>
+                        <h2>雄厚的师资力量，优质学习环境</h2>
+                        <p>推荐就业，市场需求旺盛，月薪高于一万，毕业学员可选择服务于快乐妈咪</p>
                     </div>
                 </li>
                 <li class="swiper-slide">
-                    <img src="${base}/extra-images/banner-06.jpg" alt="">
+                    <img src="${base}/extra-images/banner3.jpeg" alt="">
                     <div class="gt_banner_text gt_slide_3">
-                        <h3>What would you like to learn</h3>
-                        <h2>Complete Education Solution</h2>
-                        <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color dolor sit
-                            amet</p>
-                        <a href="#">see More<i class="fa fa-arrow-right"></i></a>
+                        <h3>孕妈交流会，与孕妈直接签单</h3>
+                        <h2>定期孕妈见面会，上千孕妈大聚会</h2>
+                        <p>服务规范化、便利化、品牌化、职业化，更好地满足家庭对家政服务的品质需求。</p>
                     </div>
                 </li>
             </ul>

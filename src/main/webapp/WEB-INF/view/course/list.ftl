@@ -72,7 +72,7 @@
                     <div class="col-md-4 col-sm-6 mb30">
                         <div class="gt_courses_wrap default_width">
                             <figure>
-                                <img src="${base}/extra-images/courses-01.jpg" alt="">
+                                <img src="${base}/extra-images/course2.jpeg" alt="">
                                 <figcaption class="gt_course_img_des">
                                     <div class="gt_course_des_holder">
                                         <ul class="gt_rating_star">
@@ -101,7 +101,7 @@
                     <div class="col-md-4 col-sm-6 mb30">
                         <div class="gt_courses_wrap default_width">
                             <figure>
-                                <img src="${base}/extra-images/courses-02.jpg" alt="">
+                                <img src="${base}/extra-images/course1.jpeg" alt="">
                                 <figcaption class="gt_course_img_des">
                                     <div class="gt_course_des_holder">
                                         <ul class="gt_rating_star">
@@ -130,7 +130,7 @@
                     <div class="col-md-4 col-sm-6 mb30">
                         <div class="gt_courses_wrap default_width">
                             <figure>
-                                <img src="/extra-images/courses-03.jpg" alt="">
+                                <img src="/extra-images/course5.jpeg" alt="">
                                 <figcaption class="gt_course_img_des">
                                     <div class="gt_course_des_holder">
                                         <ul class="gt_rating_star">
@@ -159,7 +159,7 @@
                     <div class="col-md-4 col-sm-6 mb30">
                         <div class="gt_courses_wrap default_width">
                             <figure>
-                                <img src="/extra-images/courses-04.jpg" alt="">
+                                <img src="/extra-images/course4.jpeg" alt="">
                                 <figcaption class="gt_course_img_des">
                                     <div class="gt_course_des_holder">
                                         <ul class="gt_rating_star">
@@ -176,7 +176,7 @@
                                 </figcaption>
                             </figure>
                             <div class="gt_course_des default_width">
-                                <h5><a href="#">产后恢复师培训</a></h5>
+                                <h5><a href="#">产后修复培训</a></h5>
                                 <p>内容包括臀部恢复， 骨盆矫正，肚子恢复，剖产恢复，子宫恢复，性生活恢复。</p>
                             </div>
                             <div class="gt_course_bottom default_width">
@@ -187,7 +187,7 @@
                     <div class="col-md-4 col-sm-6 mb30">
                         <div class="gt_courses_wrap default_width">
                             <figure>
-                                <img src="${base}/extra-images/courses-05.jpg" alt="">
+                                <img src="${base}/extra-images/course3.jpeg" alt="">
                                 <figcaption class="gt_course_img_des">
                                     <div class="gt_course_des_holder">
                                         <ul class="gt_rating_star">
@@ -205,10 +205,10 @@
                             </figure>
                             <div class="gt_course_des default_width">
                                 <h5><a href="#">营养师培训</a></h5>
-                                <p>培训内容包括疾病管理和疾病预防，营养测评/核算，膳食调理/饮食制作/饮食配选/人群饮食建议，为病重人群/疾病人群进行饮食/营养/药物/康复等工作</p>
+                                <p>培训内容包括疾病管理和疾病预防，营养测评/核算，膳食调理/饮食制作/饮食配选/人群饮食建议，为病重人群/疾病人群进行饮食/营养/药物/康复等工作。</p>
                             </div>
                             <div class="gt_course_bottom default_width">
-                                <h5>$2980<span>两周</span></h5>
+                                <h5>￥2980<span>两周</span></h5>
                             </div>
                         </div>
                     </div>

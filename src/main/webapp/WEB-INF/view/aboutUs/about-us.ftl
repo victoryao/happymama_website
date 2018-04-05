@@ -130,14 +130,14 @@
                                     <div class="gt_who_we_icon"><i class="icon-learning"></i></div>
                                     <div class="gt_who_we_des">
                                         <h6><a href="#">产后恢复师</a></h6>
-                                        <p>通过营养健康产品和心理辅导帮助孕妈产后恢复。</p>
+                                        <p>通过营养健康产品和心理辅导帮助孕妈产后恢复</p>
                                     </div>
                                 </li>
                                 <li class="col-md-6 col-sm-6">
                                     <div class="gt_who_we_icon"><i class="icon-computer"></i></div>
                                     <div class="gt_who_we_des">
                                         <h6><a href="#">月子膳食营养师</a></h6>
-                                        <p>合理丰富的膳食帮忙产妇恢复。</p>
+                                        <p>合理丰富的膳食帮忙产妇恢复</p>
                                     </div>
                                 </li>
                             </ul>
@@ -208,7 +208,7 @@
                                 <div class="gt_team_des default_width">
                                     <h6><a href="#">张堆</a></h6>
                                     <span>法人</span>
-                                    <p>项目发起人，连环创业者。钻石月嫂、高级讲师，从业二十余年，对护理婴儿、产后护理、月子膳食营养等有丰富理论与实践经验。 </p>
+                                    <p>项目发起人，连环创业者。首席月嫂、高级讲师，从业二十余年，对护理婴儿、产后护理、月子膳食营养等有丰富理论与实践经验。 </p>
                                 </div>
                             </div>
                         </div>
