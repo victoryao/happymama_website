@@ -44,7 +44,7 @@
                 <div class="gt_top_element">
                     <ul>
                         <li><i class="fa fa-phone"></i>010-63488700</li>
-                        <li><i class="fa fa-envelope"></i><a href="#">info@edu-skill.com</a></li>
+                        <li><i class="fa fa-wechat"></i><a href="#" id="wechat">15652402869</a></li>
                     </ul>
                 </div>
             </div>

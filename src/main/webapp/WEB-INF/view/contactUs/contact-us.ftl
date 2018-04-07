@@ -45,7 +45,7 @@
                 <div class="gt_top_element">
                     <ul>
                         <li><i class="fa fa-phone"></i>010-63488700</li>
-                        <li><i class="fa fa-envelope"></i><a href="#">info@edu-skill.com</a></li>
+                        <li><i class="fa fa-wechat"></i><a href="#">15652402869</a></li>
                     </ul>
                 </div>
             </div>
@@ -101,14 +101,14 @@
                                     <div class="gt_contact_icon"><i class="icon-email-opened-envelope"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>微信</h6>
-                                        <a href="#">helloo@eduskill.com</a>
+                                        <a href="#">15652402869</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="gt_contact_icon"><i class="icon-clock"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>营业时间</h6>
-                                        <p>周一 - 周日 早上08:00 到 下午O9:00 </p>
+                                        <p>周一至周日 早上08:00 到 下午O9:00 </p>
                                     </div>
                                 </li>
                             </ul>
