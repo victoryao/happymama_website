@@ -6,9 +6,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。" />
+    <meta name="description"
+          content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
     <meta name="aplus-xplug" content="NONE">
-    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政" />
+    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政"/>
+    <meta name="baidu-site-verification" content="71R86N1GBt" />
 
     <title>北京快乐妈咪科技有限公司</title>
     <!-- Pretty Photo CSS -->
@@ -22,6 +24,15 @@
     <!-- Responsive CSS -->
     <link href="${base}/css/responsive.css" rel="stylesheet">
 
+    <script type="text/javascript">
+        function showWx() {
+            document.getElementById("wxImg").style.display = 'block';
+        }
+        function hideWx() {
+            document.getElementById("wxImg").style.display = 'none';
+        }
+    </script>
+
 </head>
 
 <body>
@@ -29,16 +40,7 @@
 <div class="gt_wrapper">
     <!--Header Wrap Start-->
     <header>
-        <div class="gt_top_wrap gt_bg_3 default_width">
-            <div class="container">
-                <div class="gt_top_element">
-                    <ul>
-                        <li><i class="fa fa-phone"></i>010-63488700</li>
-                        <li><i class="fa fa-wechat"></i><a href="#">15652402869</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+    <#include "../../share/nav.ftl" >
         <div class="gt_menu_bg default_width">
             <div class="container">
                 <!--Logo Wrap Start-->
@@ -222,18 +224,6 @@
                                     <span>CEO</span>
                                     <p>
                                         从事育儿工作20年，新生儿监护领域资深专家，对新生儿及婴幼儿护理领域有较为全面的了解和实践经验，特别擅长婴儿生长发育监测及婴幼儿营养与疾病的指导和预防。</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="gt_team_wrap default_width mb30">
-                                <figure>
-                                    <img src="${base}/extra-images/wangzhenyun.jpeg" alt="">
-                                </figure>
-                                <div class="gt_team_des default_width">
-                                    <h6><a href="#">王振云</a></h6>
-                                    <span>CFO</span>
-                                    <p>有10多年专业的行政与财务经验，在行政管理、员工招聘、员工关系、薪酬福利、员工发展培训等领域都有着丰富的实践经验，并为企业培养了大量优秀的人才和管理储备。</p>
                                 </div>
                             </div>
                         </div>
