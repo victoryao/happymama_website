@@ -57,8 +57,9 @@
                     </button>
                     <ul>
                         <li><a href="${base}/home.do">首页</a></li>
+                        <li><a href="${base}/reserve.do">预约服务</a></li>
                         <li class="active"><a href="${base}/about-us.do">关于我们</a></li>
-                        <li><a href="${base}/employee.do">月嫂风采</a></li>
+                        <li><a href="${base}/employee.do">阿姨风采</a></li>
                         <li><a href="${base}/course.do">培训课程</a></li>
                         <li><a href="${base}/contact-us.do">联系我们</a></li>
                     </ul>

@@ -10,7 +10,7 @@
           content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
     <meta name="aplus-xplug" content="NONE">
     <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政"/>
-    <meta name="baidu-site-verification" content="71R86N1GBt" />
+    <meta name="baidu-site-verification" content="71R86N1GBt"/>
 
     <title>北京快乐妈咪科技有限公司</title>
     <!-- Animation CSS -->
@@ -34,6 +34,7 @@
     <!-- Responsive CSS -->
     <link href="${base}/css/responsive.css" rel="stylesheet">
 
+
     <script type="text/javascript">
         function showWx() {
             document.getElementById("wxImg").style.display = 'block';
@@ -42,6 +43,9 @@
             document.getElementById("wxImg").style.display = 'none';
         }
     </script>
+    <style type="text/css">
+        .gt_testimonial_bg{background-image: url(${base}/extra-images/testimonial-bg.jpg);background-size: cover;background-repeat: no-repeat;background-position: center;}
+    </style>
 
 </head>
 
@@ -51,7 +55,7 @@
 
     <!--Header Wrap Start-->
     <header>
-        <#include "../../share/nav.ftl" >
+    <#include "../../share/nav.ftl" >
         <div class="gt_menu_bg default_width">
             <div class="container">
                 <!--Logo Wrap Start-->
@@ -61,10 +65,16 @@
                 <!--Logo Wrap End-->
                 <!--Navigation Wrap Start-->
                 <nav class="gt_navigation2">
+                    <button class="gt_mobile_menu">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
                     <ul>
                         <li class="active"><a href="${base}/home.do">首页</a></li>
+                        <li><a href="${base}/reserve.do">预约服务</a></li>
                         <li><a href="${base}/about-us.do">关于我们</a></li>
-                        <li><a href="${base}/employee.do">月嫂风采</a></li>
+                        <li><a href="${base}/employee.do">阿姨风采</a></li>
                         <li><a href="${base}/course.do">培训课程</a></li>
                         <li><a href="${base}/contact-us.do">联系我们</a></li>
                     </ul>
@@ -110,58 +120,156 @@
     </div>
     <!--Banner Wrap End-->
 
-    <!--Main Content Wrap Start-->
-    <div class="gt_content_wrap">
+    <!--Why Choose Us Wrap Start-->
+    <section class="gt_choose_bg">
+        <div class="container">
+            <!--Heading Wrap Start-->
+            <div class="gt_hdg_1 default_width">
+                <h3>为什么选择我们？</h3>
+                <p>每一次保洁、保姆、月嫂服务都是对家人最好的呵护。</p>
+                <span class="gt_hdg_left"></span>
+                <i class="icon-school"></i>
+                <span class="gt_hdg_right"></span>
+            </div>
+            <!--Heading Wrap End-->
 
-        <!--Services Wrap Start-->
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 col-sm-6">
-                        <div class="get_started_services mb30">
-                            <i class="icon-classroom-with-students-group-and-the-teacher"></i>
-                            <div class="get_icon_des">
-                                <h5>专业师资</h5>
-                                <p>随到随学，免费学习</p>
-                                <p>月嫂培训行业领先品牌</p>
-                                <p>证书网上查询，全国能用</p>
+            <!--Choose Us List Wrap Start-->
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="gt_choose_wrap gt_bg_9 default_width">
+                                <span class="gt_bg_5"><i class="icon-learning"></i></span>
+                                <div class="gt_choose_des">
+                                    <h6><a href="#">快乐妈咪平台月嫂 更放心</a></h6>
+                                    <p>服务期间，随时与公司沟通月嫂服务状况，服务不满意，可协调更换。</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                        <div class="get_started_services mb30">
-                            <i class="icon-computer-1"></i>
-                            <div class="get_icon_des">
-                                <h5>推荐就业</h5>
-                                <p>中国保健营养理事会指定培训基地</p>
-                                <p>自主品牌、持证上岗</p>
-                                <p>推荐就业、市场需求旺盛</p>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="gt_choose_wrap gt_bg_13 default_width">
+                                <span class="gt_bg_3"><i class="icon-nature"></i></span>
+                                <div class="gt_choose_des">
+                                    <h6><a href="#">国际ISO9001认证更省心</a></h6>
+                                    <p>通过ISO国际标准化组织认证的标准化的服务机构，服务获得国际认可。</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-12">
-                        <div class="get_started_services mb30">
-                            <i class="icon-education-1"></i>
-                            <div class="get_icon_des">
-                                <h5>月薪高于一万</h5>
-                                <p>毕业学员可选择服务于快乐妈咪</p>
-                                <p>优秀学员可派送美国、新加坡等国家或地区</p>
-                                <p>平均工资一万起</p>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="gt_choose_wrap gt_bg_10 default_width">
+                                <span class="gt_bg_6"><i class="icon-education-1"></i></span>
+                                <div class="gt_choose_des">
+                                    <h6><a href="#">百万保险化解后顾之忧</a></h6>
+                                    <p>为用户提供100万人身+物品保障的服务机构，是国内家庭服务业保险保障覆盖率高而全的公司。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="gt_choose_wrap gt_bg_12 default_width">
+                                <span class="gt_bg_8"><i class="icon-sports"></i></span>
+                                <div class="gt_choose_des">
+                                    <h6><a href="#">五重过滤筛选 月嫂更专业</a></h6>
+                                    <p>七段式情境化培训，满足养育不同月龄宝宝的家庭需求，月嫂服务更加专业。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="gt_choose_wrap gt_bg_11 default_width">
+                                <span class="gt_bg_7"><i class="icon-technology"></i></span>
+                                <div class="gt_choose_des">
+                                    <h6><a href="#">3证上岗 5证护航</a></h6>
+                                    <p>身份证、健康证，母婴护理师证（月嫂证）上岗必备，全方位确保妈妈和宝宝的健康。</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
+                <div class="col-md-3">
+                    <div class="gt_choose_img">
+                        <img src="${base}/extra-images/choose-img.png" alt="">
+                    </div>
+                </div>
             </div>
-        </section>
-        <!--Services Wrap End-->
+            <!--Choose Us List Wrap End-->
+        </div>
+    </section>
+    <!--Why Choose Us Wrap End-->
 
+    <!--Testimonial Wrap Start-->
+    <section class="gt_testimonial_bg">
+        <div class="container">
+            <!--Heading Wrap Start-->
+            <div class="gt_hdg_1 white_color default_width">
+                <h3>顾客对我们的评价</h3>
+                <span class="gt_hdg_left"></span>
+                <i class="icon-school"></i>
+                <span class="gt_hdg_right"></span>
+            </div>
+            <!--Heading Wrap End-->
 
-        <!--Explore the Courses 02 Wrap End-->
-
-    </div>
+            <!--Testimonial List Wrap Start-->
+            <div class="gt_testimonial_slider" id="gt_testimonial_slider">
+                <div class="item">
+                    <div class="gt_testimonial_wrap gt_bg_18">
+                        <p>高阿姨做事非常认真负责，对宝宝更是无微不至，我们非常放心，同时也从高阿姨那里学习很多东西，现在宝宝非常健康聪明，感谢高阿姨的付出和辛苦，祝她今后更加顺利！</p>
+                    </div>
+                    <div class="gt_testimonial_img">
+                        <figure>
+                            <img src="${base}/extra-images/132.jpg" alt="">
+                        </figure>
+                        <div class="gt_testimonial_des">
+                            <h5><a href="#">周妈妈</a></h5>
+                            <span>北京海淀</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="gt_testimonial_wrap gt_bg_19">
+                        <p>在这26天里，蔡姐很有责任心，专业的护理知识，工作热情，相处融洽，以后有朋友请月嫂我会推荐蔡姐的，感谢蔡姐的细心照顾！</p>
+                    </div>
+                    <div class="gt_testimonial_img">
+                        <figure>
+                            <img src="${base}/extra-images/130.jpg" alt="">
+                        </figure>
+                        <div class="gt_testimonial_des">
+                            <h5><a href="#">许妈妈</a></h5>
+                            <span>北京西城</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="gt_testimonial_wrap gt_bg_20">
+                        <p>程姐性格温和随和，比较容易相处，她在宝宝喂养方面较有经验，善于观察宝宝的状态，判断哭闹原因。我家宝宝夜里突然哭闹不止，程姐认为宝宝有肠绞痛，采用热敷，得到缓解，对新手父母，在照顾方面不正确的做法，她能给予意见和纠正，很感谢！</p>
+                    </div>
+                    <div class="gt_testimonial_img">
+                        <figure>
+                            <img src="${base}/extra-images/131.jpg" alt="">
+                        </figure>
+                        <div class="gt_testimonial_des">
+                            <h5><a href="#">郭妈妈</a></h5>
+                            <span>北京昌平</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="gt_testimonial_wrap gt_bg_19">
+                        <p>感谢快乐妈咪为我推荐了牛阿姨，阿姨为人热情、豪爽、真诚，她在比较差的陪护条件下，阿姨把我和宝贝照顾的很好。出了医院，阿姨紧紧有条的照顾我们母女，正如阿姨的自我推荐上说的一样，阿姨非常擅长催乳，本以为开奶会十分痛苦，在阿姨娴熟的技艺下，我很快开奶成功，并且奶量逐渐增多，在月子里没有加过配方奶，由衷的感谢阿姨的专业技能。在产后护理这块，阿姨也非常耐心，每天帮我的伤口清理消炎，在10天以后，我明显感觉伤口消肿止疼了。宝宝护理这方面，每次宝宝大小便之后都会带着去冲洗，防止宝宝红屁屁。每天宝宝醒着的时间都会和宝宝聊天，积极和宝宝互动，被动操，排气操，抚触，日光浴，每一件都做的非常认真。此外，阿姨还非常热心，老公的经络不算很通畅，阿姨只要有时间就会帮老公疏通经络，走火罐，在繁重的工作之余，阿姨还增加自我工作量，真的让家人非常感激！26天的相处短暂而愉快，真心祝愿阿姨身体健康，工作顺利，来北京了经常来看望我们！ </p>
+                    </div>
+                    <div class="gt_testimonial_img">
+                        <figure>
+                            <img src="${base}/extra-images/133.jpg" alt="">
+                        </figure>
+                        <div class="gt_testimonial_des">
+                            <h5><a href="#">李妈妈</a></h5>
+                            <span>北京东城</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Testimonial List Wrap End-->
+        </div>
+    </section>
+    <!--Testimonial Wrap End-->
     <!--Main Content Wrap End-->
 
     <!--Footer Wrap Start-->

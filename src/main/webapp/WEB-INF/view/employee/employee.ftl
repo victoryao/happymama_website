@@ -55,8 +55,9 @@
                     </button>
                     <ul>
                         <li><a href="${base}/home.do">首页</a></li>
+                        <li><a href="${base}/reserve.do">预约服务</a></li>
                         <li><a href="${base}/about-us.do">关于我们</a></li>
-                        <li class="active"><a href="${base}/employee.do">月嫂风采</a></li>
+                        <li class="active"><a href="${base}/employee.do">阿姨风采</a></li>
                         <li><a href="${base}/course.do">培训课程</a></li>
                         <li><a href="${base}/contact-us.do">联系我们</a></li>
                     </ul>
@@ -90,7 +91,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_team_wrap default_width mb30">
                             <figure>
-                                <img src="${base}/extra-images/e2.jpeg" alt="">
+                                <img src="${base}/extra-images/e2.jpeg" width="270" height="300" alt="">
                             </figure>
                             <div class="gt_team_des default_width">
                                 <h6><a href="#">韩伟平</a></h6>
