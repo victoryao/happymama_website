@@ -5,14 +5,14 @@
     <base id="base" href="${base}">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <meta name="description" content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+    <meta name="description"
+          content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
     <meta name="aplus-xplug" content="NONE">
-    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政" />
-    <meta name="baidu-site-verification" content="71R86N1GBt" />
+    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政"/>
+    <meta name="baidu-site-verification" content="71R86N1GBt"/>
 
-    <title>北京快乐妈咪科技有限公司</title>
+    <title>快乐妈咪-联系我们</title>
     <!-- Custom Main StyleSheet CSS -->
     <link href="${base}/css/style.css" rel="stylesheet">
     <!-- Color CSS -->
@@ -34,6 +34,7 @@
     <!-- Typography StyleSheet CSS -->
     <link href="${base}/css/typography.css" rel="stylesheet">
 
+
     <script type="text/javascript">
         function showWx() {
             document.getElementById("wxImg").style.display = 'block';
@@ -42,6 +43,22 @@
             document.getElementById("wxImg").style.display = 'none';
         }
     </script>
+
+    <script type="text/javascript"
+            src="http://api.map.baidu.com/getscript?v=2.0&&ak=MvwRDGMG7o27vH3EGd2FN3M4LfTOgyzD&services=&t=20180529182003">
+    </script>
+
+    <style type="text/css">
+        #baidumap {
+            width: 100%;
+            height: 800px;
+            align-items:;
+            overflow: hidden;
+            text-align: center; /*让div内部文字居中*/
+            margin: auto;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -97,14 +114,25 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="gt_contact_icon"><i class="icon-telephone"></i></div>
+                                    <div class="gt_contact_icon"><i class="icon-phone"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>联系电话</h6>
-                                        <p>010-63488700 </p>
+                                        <p>010-63488700</p>
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="gt_contact_icon"><i class="icon-email-opened-envelope"></i></div>
+                                    <div class="gt_contact_icon"><i class="icon-arrows"></i></div>
+                                    <div class="gt_contact_des">
+                                        <h6>交通方式</h6>
+                                        <p> 一、乘坐地铁，7号线达官营站下车，c口出 <br>
+                                            二、乘坐公交车 109路，122路，133路，38路，390路，410路，42路，45路，46路，477路，53路，57路，691路，6路，
+                                            76路，80路，85路，高铁快巴2线，特7路，快速直达专线84路，快速直达专线94路，夜22路，夜7路，专27路公交线路 <font
+                                                    color="red">达官营站</font>下车
+                                        </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="gt_contact_icon"><i class="icon-telephone"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>微信</h6>
                                         <a href="#">15652402869</a>
@@ -114,27 +142,24 @@
                                     <div class="gt_contact_icon"><i class="icon-clock"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>营业时间</h6>
-                                        <p>周一至周日 早上08:00 到 下午O9:00 </p>
+                                        <p>周一至周日 早上08:00 到 晚上09:00 </p>
                                     </div>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <!--Contact List Wrap End-->
-
                 </div>
 
             </div>
+
+            <!--Main Content Wrap End-->
+            <div id="baidumap"></div>
+
+
         </section>
 
-        <div id="map">
-            <div style="width: 40%; height: 50px;" id="mymap"></div>
-        </div>
-
     </div>
-    <!--Main Content Wrap End-->
-
-
     <footer>
         <!--Footer Contact Wrap End-->
         <div class="gt_copyright_wrap">
@@ -155,9 +180,26 @@
     </div>
     <!--Back to Top Wrap Start-->
 
+
 </div>
 <!--gt Wrapper End-->
 
+<script type="text/javascript">
+    var map = new BMap.Map("baidumap");
+    // 创建地图实例
+    var point = new BMap.Point(116.34487, 39.894075);
+    // 创建点坐标
+    map.centerAndZoom(point, 17);
+    // 初始化地图，设置中心点坐标和地图级别
+    var marker = new BMap.Marker(point);  // 创建标注
+    map.addOverlay(marker);               // 将标注添加到地图中
+    var label = new BMap.Label("快乐妈咪", {offset: new BMap.Size(20, -10)});
+    marker.setLabel(label);
+    marker.setAnimation(BMAP_ANIMATION_BOUNCE); //跳动的动画
+    map.enableScrollWheelZoom(true);
+    map.disableDragging();
+
+</script>
 <!--Jquery Library-->
 <script src="http://www.jq22.com/jquery/jquery-1.10.2.js"></script>
 <!--Bootstrap core JavaScript-->

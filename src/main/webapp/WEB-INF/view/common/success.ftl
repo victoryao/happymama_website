@@ -92,7 +92,7 @@
 
                         <div class="gt_4042_error_wrap">
                             <h4>您的需求我们已收到，我们将于24小时内与您联系，请耐心等待。</h4>
-                            <h5>您也可以拨打15652402869与我们联系。</h5>
+                            <h5>您也可以拨打010-63488700/15652402869与我们联系。</h5>
                         </div>
                         <a href="${base}/home.do"">回到首页</a>
                     </div>
@@ -106,9 +106,9 @@
     </div>
     <!--Main Content Wrap End-->
 
-    <!--Footer Wrap Start-->
     <footer>
-        <div class="gt_copyright_wrap copyright2_bg">
+        <!--Footer Contact Wrap End-->
+        <div class="gt_copyright_wrap">
             <div class="container">
                 <div class="gt_copyright_des">
                     <p>Copyright © <a href="#">快乐妈咪 </a> 2018. All rights reserved.</p>
@@ -119,10 +119,12 @@
         <!--Copyright Wrap Start-->
     </footer>
     <!--Footer Wrap End-->
+
     <!--Back to Top Wrap Start-->
     <div class="back-to-top">
         <a href="#home"><i class="fa fa-angle-up"></i></a>
     </div>
+    <!--Back to Top Wrap Start-->
     <!--Back to Top Wrap Start-->
 </div>
 <!--gt Wrapper End-->
