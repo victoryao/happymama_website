@@ -5,9 +5,9 @@
     <div class="container">
         <div class="gt_top_element">
             <ul>
-                <li><i class="fa fa-phone"></i>010-63488700</li>
+                <li><i class="fa fa-phone"></i>15001339005</li>
                 <li onMouseOut="hideWx()" onmouseover="showWx()">
-                    <i class="fa fa-wechat"></i><a href="#" id="wechat">15652402869</a>
+                    <i class="fa fa-wechat"></i><a href="#" id="wechat">15001339005</a>
                 </li>
             </ul>
         </div>

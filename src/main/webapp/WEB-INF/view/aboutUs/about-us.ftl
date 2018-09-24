@@ -7,12 +7,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-          content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
+          content="北京新手妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
     <meta name="aplus-xplug" content="NONE">
-    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政"/>
-    <meta name="baidu-site-verification" content="71R86N1GBt" />
+    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,新手妈咪,推荐工作,高薪,家政"/>
+    <meta name="baidu-site-verification" content="71R86N1GBt"/>
 
-    <title>北京快乐妈咪科技有限公司</title>
+    <title>北京新手妈咪科技有限公司</title>
     <!-- Pretty Photo CSS -->
     <link href="${base}/css/prettyPhoto.css" rel="stylesheet">
     <!-- Swiper Slider CSS -->
@@ -84,22 +84,26 @@
                     <div class="col-md-7">
                         <div class="gt_who_we_wrap default_width">
                             <h5>我们是谁？</h5>
-                            <h4>北京快乐妈咪科技有限公司</h4>
-                            <hr style="height:3px;border:none;border-top:3px ridge black;" />
+                            <h4>北京新手妈咪科技有限公司</h4>
+                            <hr style="height:3px;border:none;border-top:3px ridge black;"/>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;北京快乐妈咪科技有限公司是由资深月嫂与爱心奶爸创建而成。服务内容包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索， 可以周为单位进行服务评价、付款，是专业且具有保障的孕妈公司。
+                                &nbsp;&nbsp;&nbsp;&nbsp; 北京新手妈咪科技有限公司于2018年正式成立，由资深孕产及育儿专家、互联网精英以及耕耘北京育儿事业20年的资深月嫂合作创建。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;快乐妈咪对月嫂进行严格把关，需通过笔试、面试、实际操作和心理测试等四道关卡，并接受快乐妈咪的定期回访，以客户评价为基础进行星级评定，与月嫂薪资直接挂钩。
+                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪以京城资深母婴服务专家为目标,服务内容包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，
+                                可以周为单位进行服务评价、付款，是专业且具有保障的孕妈公司。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;快乐妈咪不仅输送月嫂，还自己培养月嫂。我们开展月嫂、催乳师、育儿师、催乳师、产后护理、小儿推拿、月子餐的资格培训。我们有严格专业的培训体系，拥有整套的培训课程，从理论培训到技能培训，从实际操作到工作实习全部有严格的培训标准。
+                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪对月嫂进行严格把关，需通过笔试、面试、实际操作和心理测试等四道关卡，并接受新手妈咪的定期回访，以客户评价为基础进行星级评定，与月嫂薪资直接挂钩。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;快乐妈咪积极引入第三方保障与扩展服务系统，与人保PICC达成独家战略合作，一个月百万保额，为妈妈、孩子、月嫂提供更完善的保障。
+                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪不仅输送月嫂，还自己培养月嫂。我们开展月嫂、催乳师、育儿师、催乳师、产后护理、小儿推拿、月子餐的资格培训。我们有严格专业的培训体系，拥有整套的培训课程，从理论培训到技能培训，从实际操作到工作实习全部有严格的培训标准。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;快乐妈咪以做中国资深母婴服务专家为目标，全心全意为中国母婴提供高端专业的服务！
+                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪积极引入第三方保障与扩展服务系统，与人保PICC达成独家战略合作，一个月百万保额，为妈妈、孩子、月嫂提供更完善的保障。
+                            </p>
+                            <p>
+                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪全心全意为京城孕妈产妈和宝宝提供高端专业母婴服务，利用互联网技术，提供可靠有保障的集孕产及育儿为一体的公司。
                             </p>
                             <ul class="row">
                                 <li class="col-md-6 col-sm-6">
@@ -198,7 +202,7 @@
         <div class="gt_content_wrap">
             <div class="gt_hdg_1 default_width">
                 <h3>团队成员</h3>
-                <p>快乐妈咪是一个极富创造力和凝聚力的团队，整个团队致力于「让每个新生儿得到最优质的服务」，为孕妈打造全新体验。</p>
+                <p>新手妈咪是一个极富创造力和凝聚力的团队，整个团队致力于「让每个新生儿得到最优质的服务」，为孕妈打造全新体验。</p>
             </div>
             <!--Course Grid Wrap Start-->
             <section class="gt_courses_bg">
@@ -207,10 +211,10 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="gt_team_wrap default_width mb30">
                                 <figure>
-                                    <img src="${base}/extra-images/zhangdun.jpeg" alt="">
+                                    <img src="${base}/extra-images/jishaomei.jpg" alt="">
                                 </figure>
                                 <div class="gt_team_des default_width">
-                                    <h6><a href="#">张堆</a></h6>
+                                    <h6><a href="#">季少梅</a></h6>
                                     <span>法人</span>
                                     <p>项目发起人，连环创业者。首席月嫂、高级讲师，从业二十余年，对护理婴儿、产后护理、月子膳食营养等有丰富理论与实践经验。 </p>
                                 </div>
@@ -223,7 +227,7 @@
                                 </figure>
                                 <div class="gt_team_des default_width">
                                     <h6><a href="#">李桂华</a></h6>
-                                    <span>CEO</span>
+                                    <span>联合创始人</span>
                                     <p>
                                         从事育儿工作20年，新生儿监护领域资深专家，对新生儿及婴幼儿护理领域有较为全面的了解和实践经验，特别擅长婴儿生长发育监测及婴幼儿营养与疾病的指导和预防。</p>
                                 </div>
@@ -232,12 +236,27 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="gt_team_wrap default_width mb30">
                                 <figure>
-                                    <img src="${base}/extra-images/liuzhenyuan.jpeg" alt="">
+                                    <img src="${base}/extra-images/jimeihua.jpg" alt="">
                                 </figure>
                                 <div class="gt_team_des default_width">
-                                    <h6><a href="#">刘振远</a></h6>
-                                    <span>CMO</span>
-                                    <p>广告学学士，曾就职于尖峰计算机、远鉴科技等知名IT公司，市场总监，运营总监。精通移动互联网产品开发、渠道运营、品牌推广、产品销售等领域。 </p>
+                                    <h6><a href="#">季美华</a></h6>
+                                    <span>联合创始人</span>
+                                    <p>
+                                        美国匹兹堡大学护理博士，美国注册护士；在国内从事高校护理教学，接受过孕期保健及新生儿护理理论及实践的系统培训，对孕妇和新生儿营养、孕产期心理保健及疾病预防有着丰富经验。 </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="gt_team_wrap default_width mb30">
+                                <figure>
+                                    <img src="${base}/extra-images/lina.jpg" alt="">
+                                </figure>
+                                <div class="gt_team_des default_width">
+                                    <h6><a href="#">Lina 吴</a></h6>
+                                    <span>联合创始人&CFO</span>
+                                    <p>
+                                        北京交通大学人力资源学士，人力资源总监，有10多年专业的行政与财务经验，在行政管理、员工招聘、员工关系、薪酬福利、员工发展培训等领域都有着丰富的实践经验，并为企业培养了大量优秀的人才和管理储备。
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -248,7 +267,7 @@
                                 </figure>
                                 <div class="gt_team_des default_width">
                                     <h6><a href="#">姚强</a></h6>
-                                    <span>CTO</span>
+                                    <span>联合创始人&CTO</span>
                                     <p>计算机硕士，曾就职于阿里巴巴、IBM、美团、小米等知名IT公司。技术专家/架构师。
                                         精通系统架构、分布性设计、高并发、大数据、高可用性等领域。 </p>
                                 </div>
@@ -268,8 +287,8 @@
         <div class="gt_copyright_wrap">
             <div class="container">
                 <div class="gt_copyright_des">
-                    <p>Copyright © <a href="#">快乐妈咪 </a> 2018. All rights reserved.</p>
-                    <span>Created by: <a href="#">klmami.cn</a></span>
+                    <p>Copyright © <a href="#">新手妈咪 </a> 2018. All rights reserved.</p>
+                    <span>Created by: <a href="#">newmami.cn</a></span>
                 </div>
             </div>
         </div>

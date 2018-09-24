@@ -7,12 +7,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
     <meta name="description"
-          content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
+          content="北京新手妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
     <meta name="aplus-xplug" content="NONE">
-    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政"/>
+    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,新手妈咪,推荐工作,高薪,家政"/>
     <meta name="baidu-site-verification" content="71R86N1GBt"/>
 
-    <title>快乐妈咪-联系我们</title>
+    <title>新手妈咪-联系我们</title>
     <!-- Custom Main StyleSheet CSS -->
     <link href="${base}/css/style.css" rel="stylesheet">
     <!-- Color CSS -->
@@ -50,7 +50,7 @@
 
     <style type="text/css">
         #baidumap {
-            width: 100%;
+            width: 80%;
             height: 800px;
             align-items:;
             overflow: hidden;
@@ -110,24 +110,23 @@
                                     <div class="gt_contact_icon"><i class="fa fa-map-marker"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>公司地址</h6>
-                                        <p>北京市西城区广安门外大街甲180号新纪元公寓1905室</p>
+                                        <p>北京市昌平区龙旗广场D座808室</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="gt_contact_icon"><i class="icon-phone"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>联系电话</h6>
-                                        <p>010-63488700</p>
+                                        <p>15001339005</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="gt_contact_icon"><i class="icon-arrows"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>交通方式</h6>
-                                        <p> 一、乘坐地铁，7号线达官营站下车，c口出 <br>
-                                            二、乘坐公交车 109路，122路，133路，38路，390路，410路，42路，45路，46路，477路，53路，57路，691路，6路，
-                                            76路，80路，85路，高铁快巴2线，特7路，快速直达专线84路，快速直达专线94路，夜22路，夜7路，专27路公交线路 <font
-                                                    color="red">达官营站</font>下车
+                                        <p> 一、乘坐地铁，8号线育新站下车，B口（东北口）出向北步行1公里 <br>
+                                            二、乘坐公交车 371，462，478，681路公交线路 <font
+                                                    color="red">文华路南口站</font>下车
                                         </p>
                                     </div>
                                 </li>
@@ -135,7 +134,7 @@
                                     <div class="gt_contact_icon"><i class="icon-telephone"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>微信</h6>
-                                        <a href="#">15652402869</a>
+                                        <a href="#">15001339005</a>
                                     </div>
                                 </li>
                                 <li>
@@ -165,8 +164,8 @@
         <div class="gt_copyright_wrap">
             <div class="container">
                 <div class="gt_copyright_des">
-                    <p>Copyright © <a href="#">快乐妈咪 </a> 2018. All rights reserved.</p>
-                    <span>Created by: <a href="#">klmami.cn</a></span>
+                    <p>Copyright © <a href="#">新手妈咪 </a> 2018. All rights reserved.</p>
+                    <span>Created by: <a href="#">newmami.cn</a></span>
                 </div>
             </div>
         </div>
@@ -187,13 +186,13 @@
 <script type="text/javascript">
     var map = new BMap.Map("baidumap");
     // 创建地图实例
-    var point = new BMap.Point(116.34487, 39.894075);
+    var point = new BMap.Point(116.354938, 40.072247);
     // 创建点坐标
     map.centerAndZoom(point, 17);
     // 初始化地图，设置中心点坐标和地图级别
     var marker = new BMap.Marker(point);  // 创建标注
     map.addOverlay(marker);               // 将标注添加到地图中
-    var label = new BMap.Label("快乐妈咪", {offset: new BMap.Size(20, -10)});
+    var label = new BMap.Label("新手妈咪", {offset: new BMap.Size(20, -10)});
     marker.setLabel(label);
     marker.setAnimation(BMAP_ANIMATION_BOUNCE); //跳动的动画
     map.enableScrollWheelZoom(true);

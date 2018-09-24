@@ -7,12 +7,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-          content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
+          content="北京新手妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
     <meta name="aplus-xplug" content="NONE">
-    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政"/>
+    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,新手妈咪,推荐工作,高薪,家政"/>
     <meta name="baidu-site-verification" content="71R86N1GBt"/>
 
-    <title>北京快乐妈咪科技有限公司</title>
+    <title>北京新手妈咪科技有限公司</title>
     <!-- Animation CSS -->
     <link href="${base}/css/animate.css" rel="stylesheet">
     <!-- Chosen CSS -->
@@ -118,7 +118,7 @@
                             <i class="icon-education-1"></i>
                             <div class="get_icon_des">
                                 <h5>月薪高于一万</h5>
-                                <p>毕业学员可选择服务于快乐妈咪</p>
+                                <p>毕业学员可选择服务于新手妈咪</p>
                                 <p>优秀学员可派送美国、新加坡等国家或地区</p>
                                 <p>平均工资一万起</p>
                             </div>
@@ -136,8 +136,8 @@
         <div class="gt_copyright_wrap copyright2_bg">
             <div class="container">
                 <div class="gt_copyright_des">
-                    <p>Copyright © <a href="#">快乐妈咪 </a> 2018. All rights reserved.</p>
-                    <span>Created by: <a href="#">klmami.cn</a></span>
+                    <p>Copyright © <a href="#">新手妈咪 </a> 2018. All rights reserved.</p>
+                    <span>Created by: <a href="#">newmami.cn</a></span>
                 </div>
             </div>
         </div>
