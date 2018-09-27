@@ -7,7 +7,7 @@
             <ul>
                 <li><i class="fa fa-phone"></i>010-63488700</li>
                 <li onMouseOut="hideWx()" onmouseover="showWx()">
-                    <i class="fa fa-wechat"></i><a href="#" id="wechat">15652402869</a>
+                    <i class="fa fa-wechat"></i><a href="#" id="wechat">13031132818</a>
                 </li>
             </ul>
         </div>

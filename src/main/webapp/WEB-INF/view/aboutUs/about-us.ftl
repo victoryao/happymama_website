@@ -10,7 +10,7 @@
           content="北京快乐妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
     <meta name="aplus-xplug" content="NONE">
     <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,快乐妈咪,推荐工作,高薪,家政"/>
-    <meta name="baidu-site-verification" content="71R86N1GBt" />
+    <meta name="baidu-site-verification" content="71R86N1GBt"/>
 
     <title>北京快乐妈咪科技有限公司</title>
     <!-- Pretty Photo CSS -->
@@ -85,22 +85,21 @@
                         <div class="gt_who_we_wrap default_width">
                             <h5>我们是谁？</h5>
                             <h4>北京快乐妈咪科技有限公司</h4>
-                            <hr style="height:3px;border:none;border-top:3px ridge black;" />
+                            <hr style="height:3px;border:none;border-top:3px ridge black;"/>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;北京快乐妈咪科技有限公司是由资深月嫂与爱心奶爸创建而成。服务内容包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索， 可以周为单位进行服务评价、付款，是专业且具有保障的孕妈公司。
+                                &nbsp;&nbsp;&nbsp;&nbsp;
+                                快乐妈咪公司是一家专业的母婴公司，创始人张堆女士。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;快乐妈咪对月嫂进行严格把关，需通过笔试、面试、实际操作和心理测试等四道关卡，并接受快乐妈咪的定期回访，以客户评价为基础进行星级评定，与月嫂薪资直接挂钩。
+                                &nbsp;&nbsp;&nbsp;&nbsp;张女士是一名九年经验的老月嫂。多年的优质服务深得客户的好评。张女士在多年的月嫂工作中深有体会，
+                                在北京能找到优秀的月嫂是非常之难，月嫂价格虚高 服务质量与价格不符合，月嫂不安全健康没保障，月嫂向客户索要，月嫂上户无监管肆意妄为。此类事件比比皆是。张女士认为做服务
+                                行业，就是要满足客户的需求。为客户提供优质的服务，所以张女士励志打造一批专业的月嫂团队，所以成立了快乐妈咪月嫂公司，专业提供母婴服务
+                                ，以他多年的上户经验，一对一培训月嫂，针对喂养指导，催乳，月子餐制，小儿常见病观察等。制定月嫂上户监管制度
+                                “26天母婴服务表”。月嫂每天填写，下户上交审核评级。严格把控月嫂服务质量，快乐妈咪母婴公司保证，我们公司的月嫂评级统一按照 服务客户数量+好评数量+技能考核
+                                三部考核评分升级保证月嫂的真实价值。
+
                             </p>
-                            <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;快乐妈咪不仅输送月嫂，还自己培养月嫂。我们开展月嫂、催乳师、育儿师、催乳师、产后护理、小儿推拿、月子餐的资格培训。我们有严格专业的培训体系，拥有整套的培训课程，从理论培训到技能培训，从实际操作到工作实习全部有严格的培训标准。
-                            </p>
-                            <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;快乐妈咪积极引入第三方保障与扩展服务系统，与人保PICC达成独家战略合作，一个月百万保额，为妈妈、孩子、月嫂提供更完善的保障。
-                            </p>
-                            <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;快乐妈咪以做中国资深母婴服务专家为目标，全心全意为中国母婴提供高端专业的服务！
-                            </p>
+
                             <ul class="row">
                                 <li class="col-md-6 col-sm-6">
                                     <div class="gt_who_we_icon"><i class="icon-education-1"></i></div>
@@ -211,49 +210,12 @@
                                 </figure>
                                 <div class="gt_team_des default_width">
                                     <h6><a href="#">张堆</a></h6>
-                                    <span>法人</span>
+                                    <span>法人，CEO</span>
                                     <p>项目发起人，连环创业者。首席月嫂、高级讲师，从业二十余年，对护理婴儿、产后护理、月子膳食营养等有丰富理论与实践经验。 </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="gt_team_wrap default_width mb30">
-                                <figure>
-                                    <img src="${base}/extra-images/liguihua.jpeg" alt="">
-                                </figure>
-                                <div class="gt_team_des default_width">
-                                    <h6><a href="#">李桂华</a></h6>
-                                    <span>CEO</span>
-                                    <p>
-                                        从事育儿工作20年，新生儿监护领域资深专家，对新生儿及婴幼儿护理领域有较为全面的了解和实践经验，特别擅长婴儿生长发育监测及婴幼儿营养与疾病的指导和预防。</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="gt_team_wrap default_width mb30">
-                                <figure>
-                                    <img src="${base}/extra-images/liuzhenyuan.jpeg" alt="">
-                                </figure>
-                                <div class="gt_team_des default_width">
-                                    <h6><a href="#">刘振远</a></h6>
-                                    <span>CMO</span>
-                                    <p>广告学学士，曾就职于尖峰计算机、远鉴科技等知名IT公司，市场总监，运营总监。精通移动互联网产品开发、渠道运营、品牌推广、产品销售等领域。 </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="gt_team_wrap default_width mb30">
-                                <figure>
-                                    <img src="${base}/extra-images/yaoqiang.jpeg" alt="">
-                                </figure>
-                                <div class="gt_team_des default_width">
-                                    <h6><a href="#">姚强</a></h6>
-                                    <span>CTO</span>
-                                    <p>计算机硕士，曾就职于阿里巴巴、IBM、美团、小米等知名IT公司。技术专家/架构师。
-                                        精通系统架构、分布性设计、高并发、大数据、高可用性等领域。 </p>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </section>

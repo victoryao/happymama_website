@@ -110,7 +110,7 @@
                                     <div class="gt_contact_icon"><i class="fa fa-map-marker"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>公司地址</h6>
-                                        <p>北京市西城区广安门外大街甲180号新纪元公寓1905室</p>
+                                        <p>北京市西城区马连道鼎观大厦908办公室</p>
                                     </div>
                                 </li>
                                 <li>
@@ -135,7 +135,7 @@
                                     <div class="gt_contact_icon"><i class="icon-telephone"></i></div>
                                     <div class="gt_contact_des">
                                         <h6>微信</h6>
-                                        <a href="#">15652402869</a>
+                                        <a href="#">13031132818</a>
                                     </div>
                                 </li>
                                 <li>
