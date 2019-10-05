@@ -90,7 +90,7 @@
         <div class="swiper-container" id="swiper-container">
             <ul class="swiper-wrapper">
                 <li class="swiper-slide">
-                    <img src="${base}/extra-images/banner1.jpeg" alt="">
+                    <img src="${base}/extra-images/banner1.jpg" alt="">
                     <div class="gt_banner_text gt_slide_1">
                         <h3>想安全放心的挑选优质月嫂吗?</h3>
                         <h2>更专业、更放心</h2>
@@ -98,7 +98,7 @@
                     </div>
                 </li>
                 <li class="swiper-slide">
-                    <img src="${base}/extra-images/banner2.jpeg" alt="">
+                    <img src="${base}/extra-images/banner2.jpg" alt="">
                     <div class="gt_banner_text gt_slide_2">
                         <h3>月嫂、育儿嫂、催乳师、营养师培训</h3>
                         <h2>雄厚的师资力量，优质学习环境</h2>
@@ -106,7 +106,7 @@
                     </div>
                 </li>
                 <li class="swiper-slide">
-                    <img src="${base}/extra-images/banner3.jpeg" alt="">
+                    <img src="${base}/extra-images/banner3.jpg" alt="">
                     <div class="gt_banner_text gt_slide_3">
                         <h3>孕妈交流会，与孕妈直接签单</h3>
                         <h2>定期孕妈见面会，上千孕妈大聚会</h2>
