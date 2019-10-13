@@ -7,12 +7,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
     <meta name="description"
-          content="北京新手妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
+          content="北京新新妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
     <meta name="aplus-xplug" content="NONE">
-    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,新手妈咪,推荐工作,高薪,家政"/>
-    <meta name="baidu-site-verification" content="71R86N1GBt"/>
+    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,新新妈咪,推荐工作,高薪,家政"/>
+    <meta name="baidu-site-verification" content="ZbacBBPSZU"/>
 
-    <title>新手妈咪-联系我们</title>
+    <title>新新妈咪-联系我们</title>
     <!-- Custom Main StyleSheet CSS -->
     <link href="${base}/css/style.css" rel="stylesheet">
     <!-- Color CSS -->
@@ -45,13 +45,13 @@
     </script>
 
     <script type="text/javascript"
-            src="http://api.map.baidu.com/getscript?v=2.0&&ak=MvwRDGMG7o27vH3EGd2FN3M4LfTOgyzD&services=&t=20180529182003">
+            src="http://api.map.baidu.com/getscript?v=2.0&&ak=6H2d6CdsFEyWz6eFh5uwMHLPFEM720Vw&services=&t=20180529182003">
     </script>
 
     <style type="text/css">
         #baidumap {
             width: 80%;
-            height: 800px;
+            height: 500px;
             align-items:;
             overflow: hidden;
             text-align: center; /*让div内部文字居中*/
@@ -164,7 +164,7 @@
         <div class="gt_copyright_wrap">
             <div class="container">
                 <div class="gt_copyright_des">
-                    <p>Copyright © <a href="#">新手妈咪 </a> 2018. All rights reserved.</p>
+                    <p>Copyright © <a href="#">新新妈咪 </a> 2018. All rights reserved.</p>
                     <span>Created by: <a href="#">newmami.cn</a></span>
                 </div>
             </div>
@@ -192,7 +192,7 @@
     // 初始化地图，设置中心点坐标和地图级别
     var marker = new BMap.Marker(point);  // 创建标注
     map.addOverlay(marker);               // 将标注添加到地图中
-    var label = new BMap.Label("新手妈咪", {offset: new BMap.Size(20, -10)});
+    var label = new BMap.Label("新新妈咪", {offset: new BMap.Size(20, -10)});
     marker.setLabel(label);
     marker.setAnimation(BMAP_ANIMATION_BOUNCE); //跳动的动画
     map.enableScrollWheelZoom(true);

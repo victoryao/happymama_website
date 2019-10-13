@@ -7,12 +7,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-          content="北京新手妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
+          content="北京新新妈咪科技有限公司是由一群有爱心有激情的奶爸与月嫂创始建设，着力搭建一个孕妈和月嫂的深度交流平台。目前的核心服务包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，可以周为单位进行服务评价、付款，是专业且具有保障的孕妈社区。"/>
     <meta name="aplus-xplug" content="NONE">
-    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,新手妈咪,推荐工作,高薪,家政"/>
-    <meta name="baidu-site-verification" content="71R86N1GBt"/>
+    <meta name="keyword" content="月嫂,培训,月嫂培训,育儿嫂,催乳师,小儿推拿师,产后恢复,月子膳食,营养师,新新妈咪,推荐工作,高薪,家政"/>
+    <meta name="baidu-site-verification" content="ZbacBBPSZU"/>
 
-    <title>北京新手妈咪科技有限公司</title>
+    <title>北京新新妈咪科技有限公司</title>
     <!-- Pretty Photo CSS -->
     <link href="${base}/css/prettyPhoto.css" rel="stylesheet">
     <!-- Swiper Slider CSS -->
@@ -84,26 +84,26 @@
                     <div class="col-md-7">
                         <div class="gt_who_we_wrap default_width">
                             <h5>我们是谁？</h5>
-                            <h4>北京新手妈咪科技有限公司</h4>
+                            <h4>北京新新妈咪科技有限公司</h4>
                             <hr style="height:3px;border:none;border-top:3px ridge black;"/>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp; 北京新手妈咪科技有限公司于2018年正式成立，由资深孕产及育儿专家、互联网精英以及耕耘北京育儿事业20年的资深月嫂合作创建。
+                                &nbsp;&nbsp;&nbsp;&nbsp; 北京新新妈咪科技有限公司于2018年正式成立，由资深孕产及育儿专家、互联网精英以及耕耘北京育儿事业20年的资深月嫂合作创建。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪以京城资深母婴服务专家为目标,服务内容包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，
+                                &nbsp;&nbsp;&nbsp;&nbsp;新新妈咪以京城资深母婴服务专家为目标,服务内容包括培训、月嫂、育儿嫂、催乳师、产后护理、小儿推拿、月子餐等母婴服务的预定与咨询，用户可结合自身实际情况，分价格、分地域、分年限进行快速搜索，
                                 可以周为单位进行服务评价、付款，是专业且具有保障的孕妈公司。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪对月嫂进行严格把关，需通过笔试、面试、实际操作和心理测试等四道关卡，并接受新手妈咪的定期回访，以客户评价为基础进行星级评定，与月嫂薪资直接挂钩。
+                                &nbsp;&nbsp;&nbsp;&nbsp;新新妈咪对月嫂进行严格把关，需通过笔试、面试、实际操作和心理测试等四道关卡，并接受新新妈咪的定期回访，以客户评价为基础进行星级评定，与月嫂薪资直接挂钩。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪不仅输送月嫂，还自己培养月嫂。我们开展月嫂、催乳师、育儿师、催乳师、产后护理、小儿推拿、月子餐的资格培训。我们有严格专业的培训体系，拥有整套的培训课程，从理论培训到技能培训，从实际操作到工作实习全部有严格的培训标准。
+                                &nbsp;&nbsp;&nbsp;&nbsp;新新妈咪不仅输送月嫂，还自己培养月嫂。我们开展月嫂、催乳师、育儿师、催乳师、产后护理、小儿推拿、月子餐的资格培训。我们有严格专业的培训体系，拥有整套的培训课程，从理论培训到技能培训，从实际操作到工作实习全部有严格的培训标准。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪积极引入第三方保障与扩展服务系统，与人保PICC达成独家战略合作，一个月百万保额，为妈妈、孩子、月嫂提供更完善的保障。
+                                &nbsp;&nbsp;&nbsp;&nbsp;新新妈咪积极引入第三方保障与扩展服务系统，与人保PICC达成独家战略合作，一个月百万保额，为妈妈、孩子、月嫂提供更完善的保障。
                             </p>
                             <p>
-                                &nbsp;&nbsp;&nbsp;&nbsp;新手妈咪全心全意为京城孕妈产妈和宝宝提供高端专业母婴服务，利用互联网技术，提供可靠有保障的集孕产及育儿为一体的公司。
+                                &nbsp;&nbsp;&nbsp;&nbsp;新新妈咪全心全意为京城孕妈产妈和宝宝提供高端专业母婴服务，利用互联网技术，提供可靠有保障的集孕产及育儿为一体的公司。
                             </p>
                             <ul class="row">
                                 <li class="col-md-6 col-sm-6">
@@ -202,9 +202,10 @@
         <div class="gt_content_wrap">
             <div class="gt_hdg_1 default_width">
                 <h3>团队成员</h3>
-                <p>新手妈咪是一个极富创造力和凝聚力的团队，整个团队致力于「让每个新生儿得到最优质的服务」，为孕妈打造全新体验。</p>
+                <p>新新妈咪是一个极富创造力和凝聚力的团队，整个团队致力于「让每个新生儿得到最优质的服务」，为孕妈打造全新体验。</p>
             </div>
             <!--Course Grid Wrap Start-->
+            <!--
             <section class="gt_courses_bg">
                 <div class="container">
                     <div class="row">
@@ -216,7 +217,7 @@
                                 <div class="gt_team_des default_width">
                                     <h6><a href="#">季少梅</a></h6>
                                     <span>法人</span>
-                                    <p>项目发起人。北京理工大学生命医学硕士，曾就职于阿里巴巴， 2012年加入IBM，担任云计算资深工程师。2018 年创办新手妈咪公司，负责市场推广、营销传播 及孕产妇培训活动宣传。 </p>
+                                    <p>项目发起人。北京理工大学生命医学硕士，曾就职于阿里巴巴， 2012年加入IBM，担任云计算资深工程师。2018 年创办新新妈咪公司，负责市场推广、营销传播 及孕产妇培训活动宣传。 </p>
                                 </div>
                             </div>
                         </div>
@@ -276,6 +277,7 @@
                     </div>
                 </div>
             </section>
+            -->
             <!--Course Grid Wrap End-->
         </div>
 
@@ -287,7 +289,7 @@
         <div class="gt_copyright_wrap">
             <div class="container">
                 <div class="gt_copyright_des">
-                    <p>Copyright © <a href="#">新手妈咪 </a> 2018. All rights reserved.</p>
+                    <p>Copyright © <a href="#">新新妈咪 </a> 2018. All rights reserved.</p>
                     <span>Created by: <a href="#">newmami.cn</a></span>
                 </div>
             </div>
